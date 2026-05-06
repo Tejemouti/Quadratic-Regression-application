@@ -17,4 +17,4 @@ Variables without this shape were deemed statistically
 insignificant drivers of profitability.
 
 ## Tools
-Python · NumPy · Pandas · Matplotlib · Scikit-learn
+Python · NumPy · Pandas · Matplotlib · statsmodels 
